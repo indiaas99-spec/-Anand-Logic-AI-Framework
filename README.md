@@ -24,3 +24,11 @@ This logic framework (7+2+1 Anand Logic, 4-Step Shuddhi Protocol, and ICR Indexi
 1. **Full Rights:** The inventor retains 100% ownership and control over the distribution and use of this logic.
 2. **Usage:** No individual or organization is permitted to use, copy, modify, or distribute this framework (commercially or non-commercially) without express written permission from Anand Saxena.
 3. **Contact for Permission:** india.as99@gmail.com
+## Intellectual Property & Ownership
+**Copyright © 2026 Anand Saxena. All Rights Reserved.**
+
+This logic framework (7+2+1 Anand Logic, 4-Step Shuddhi Protocol, and ICR Indexing) is the exclusive property of Anand Saxena. 
+
+1. **Full Rights:** The inventor retains 100% ownership and control over the distribution and use of this logic.
+2. **Usage:** No individual or organization is permitted to use, copy, modify, or distribute this framework (commercially or non-commercially) without express written permission from Anand Saxena.
+3. **Contact for Permission:** india.as99@gmail.com
