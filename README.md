@@ -1,4 +1,5 @@
-STATUS: OFFICIAL COPYRIGHT FILED
+**Legal Note on Nomenclature:**  
+This framework, conceptualized as the **"Shuddhi Protocol"**, is officially filed and registered under the title **"Anand Logic: 7+2+1 AI Reasoning Framework and 4-Step Shiddhi Protocol"** (Diary No: SW-407/2026-CO) at the Copyright Office, Government of India. The term **"Shiddhi"** represents the formal legal filing name for this invention.                                                                                                                                                                                                      STATUS: OFFICIAL COPYRIGHT FILED
 **Diary Number:** `SW-407/2026-CO`  
 **Filing Date:** January 03, 2026  
 **Jurisdiction:** Copyright Office, Government of India  
