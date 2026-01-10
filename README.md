@@ -46,7 +46,9 @@ A deep-refining engine that distills massive datasets into a single, accurate "C
 
 ### 4. Pillar 4: Advanced Recursive Memory & Discovery
 Includes **Multi-Recycle** and **Multi-Diversion** protocols. It ensures 100% context retention and identifies hidden patterns within AI discoveries.
-
+Descending Cycle (100 to 1): Verification of Result Integrity.
+Neutral Point (0000): Data Compression (1+2+7 Rule).
+Ascending Cycle (1 to 9): Deep Memory Rotation for extra data safety.
 ### 🛡️ The Master Controller: Selective Activation
 A diagnostic layer that automatically selects the optimal logic pillar based on the complexity of the task, ensuring peak performance and zero computational overload.
 
