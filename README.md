@@ -1,3 +1,13 @@
+# 👁️ Anand-Logic (trinetr): The Master AI Framework
+**Proprietary Standard for AI Reasoning Integrity**  
+**Inventor:** Anand Saxena (Swami Dhyan Daulat)  
+**Registered (Govt. of India):** SW-407/2026-CO & SW-1426/2026-CO  
+**Official Update:** January 22, 2026 (Global Identity Lock: trinetr)
+
+---
+
+### 📢 LEGAL WARNING: INTELLECTUAL PROPERTY PROTECTION
+The term **"Anand-Logic (trinetr)"** and its associated 7+2+1 and 4-Step Protocols are legally protected. Any unauthorized commercial use, including private courses or Telegram distributions, is a direct violation of international IP laws and the Indian Copyright Act.
 **Legal Note on Nomenclature:**  
 # 📢 STATUS: MASTER FRAMEWORK FULLY SECURED
 **Phase 1 Diary Number:** `SW-407/2026-CO` (Filing Date: Jan 03, 2026)  
