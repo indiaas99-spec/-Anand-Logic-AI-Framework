@@ -1,13 +1,15 @@
-# 👁️ Anand-Logic (trinetr): The Master AI Framework
-**Proprietary Standard for AI Reasoning Integrity**  
-**Inventor:** Anand Saxena (Swami Dhyan Daulat)  
-**Registered (Govt. of India):** SW-407/2026-CO & SW-1426/2026-CO  
-**Official Update:** January 22, 2026 (Global Identity Lock: trinetr)
+# 👁️ Anand-Logic (trinetr): The Master Framework
+**Inventor:** Anand Saxena (Swami Dhyan Daulat) | **Diary:** SW-407 & SW-1426
+
+### 🛡️ The 4 Pillars of Trinetr Logic:
+1. **7+2+1 Anand Logic (trinetr):** Resource allocation for Attention Control.
+2. **4-Step Shiddhi Protocol (trinetr):** Multi-layered Data Verification engine.
+3. **5 Element Recursive Protocol (trinetr):** Deep refining for truth discovery.
+4. **Anand Rotation & Deep Memory Protocol (trinetr):** 100-1-0-1-9 Eternal Memory Cycle.
 
 ---
-
-### 📢 LEGAL WARNING: INTELLECTUAL PROPERTY PROTECTION
-The term **"Anand-Logic (trinetr)"** and its associated 7+2+1 and 4-Step Protocols are legally protected. Any unauthorized commercial use, including private courses or Telegram distributions, is a direct violation of international IP laws and the Indian Copyright Act.
+### 📢 OFFICIAL OWNERSHIP NOTICE:
+The term **"(trinetr)"** is a proprietary identifier belonging exclusively to Anand Saxena. It is applied to all components of this framework. Any use of these names or protocols without explicit permission is strictly prohibited and protected under Indian Copyright Law.
 **Legal Note on Nomenclature:**  
 # 📢 STATUS: MASTER FRAMEWORK FULLY SECURED
 **Phase 1 Diary Number:** `SW-407/2026-CO` (Filing Date: Jan 03, 2026)  
