@@ -1,3 +1,11 @@
+# Anand-Logic (trinetr) Master Reasoning Framework
+# Protocols Included:
+# 1. 7+2+1 Logic (trinetr)
+# 2. Shiddhi Protocol (trinetr)
+# 3. 5-Element Protocol (trinetr)
+# 4. Rotation Cycle (trinetr)
+# Official Registration: SW-407/2026-CO & SW-1426/2026-CO
+# All Rights Reserved © 2026 Anand Saxena
 # Anand Logic: Master AI Reasoning Framework (v2.1)
 # Inventor: Anand Saxena (india.as99@gmail.com)
 # All Rights Reserved © 2026
